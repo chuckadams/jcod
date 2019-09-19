@@ -1,3 +1,9 @@
+=== IMPORTANT NOTE ===
+
+As of 2019, I've not been able to successfully build this project because both runtime and dev dependencies (libgdx and lombok respectively) have bit-rotted at their given versions.  I was able to fix the gdx dependency easily enough, but ran out of cycles debugging the Lombok issue (maven just fails to invoke lombok in the build process).
+
+=== ORIGINAL README BELOW ===
+
 JCOD: A Java port of the libTCOD Library for Roguelikes
 
 No detailed writeup yet, just some bullet points.
